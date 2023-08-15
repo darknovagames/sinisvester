@@ -1,0 +1,107 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 12323, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Presets:
+  - m_Name: 10121c
+    m_Color: {r: 0.0627451, g: 0.07058824, b: 0.1098039, a: 1}
+  - m_Name: 2c1e31
+    m_Color: {r: 0.172549, g: 0.1176471, b: 0.1921569, a: 1}
+  - m_Name: 6b2643
+    m_Color: {r: 0.4196078, g: 0.1490196, b: 0.2627451, a: 1}
+  - m_Name: ac2847
+    m_Color: {r: 0.6745098, g: 0.1568628, b: 0.2784314, a: 1}
+  - m_Name: ec273f
+    m_Color: {r: 0.9254902, g: 0.1529412, b: 0.2470588, a: 1}
+  - m_Name: 94493a
+    m_Color: {r: 0.5803922, g: 0.2862745, b: 0.227451, a: 1}
+  - m_Name: de5d3a
+    m_Color: {r: 0.8705882, g: 0.3647059, b: 0.227451, a: 1}
+  - m_Name: e98537
+    m_Color: {r: 0.9137255, g: 0.5215687, b: 0.2156863, a: 1}
+  - m_Name: f3a833
+    m_Color: {r: 0.9529412, g: 0.6588235, b: 0.2, a: 1}
+  - m_Name: 4d3533
+    m_Color: {r: 0.3019608, g: 0.2078431, b: 0.2, a: 1}
+  - m_Name: 6e4c30
+    m_Color: {r: 0.4313726, g: 0.2980392, b: 0.1882353, a: 1}
+  - m_Name: a26d3f
+    m_Color: {r: 0.6352941, g: 0.427451, b: 0.2470588, a: 1}
+  - m_Name: ce9248
+    m_Color: {r: 0.8078431, g: 0.572549, b: 0.282353, a: 1}
+  - m_Name: dab163
+    m_Color: {r: 0.854902, g: 0.6941177, b: 0.3882353, a: 1}
+  - m_Name: e8d282
+    m_Color: {r: 0.9098039, g: 0.8235294, b: 0.509804, a: 1}
+  - m_Name: f7f3b7
+    m_Color: {r: 0.9686275, g: 0.9529412, b: 0.7176471, a: 1}
+  - m_Name: 1e4044
+    m_Color: {r: 0.1176471, g: 0.2509804, b: 0.2666667, a: 1}
+  - m_Name: 006554
+    m_Color: {r: 0, g: 0.3960784, b: 0.3294118, a: 1}
+  - m_Name: 26854c
+    m_Color: {r: 0.1490196, g: 0.5215687, b: 0.2980392, a: 1}
+  - m_Name: 5ab552
+    m_Color: {r: 0.3529412, g: 0.7098039, b: 0.3215686, a: 1}
+  - m_Name: 9de64e
+    m_Color: {r: 0.6156863, g: 0.9019608, b: 0.3058824, a: 1}
+  - m_Name: 008b8b
+    m_Color: {r: 0, g: 0.5450981, b: 0.5450981, a: 1}
+  - m_Name: 62a477
+    m_Color: {r: 0.3843137, g: 0.6431373, b: 0.4666667, a: 1}
+  - m_Name: a6cb96
+    m_Color: {r: 0.6509804, g: 0.7960784, b: 0.5882353, a: 1}
+  - m_Name: d3eed3
+    m_Color: {r: 0.827451, g: 0.9333333, b: 0.827451, a: 1}
+  - m_Name: 3e3b65
+    m_Color: {r: 0.2431373, g: 0.2313726, b: 0.3960784, a: 1}
+  - m_Name: 3859b3
+    m_Color: {r: 0.2196078, g: 0.3490196, b: 0.7019608, a: 1}
+  - m_Name: 3388de
+    m_Color: {r: 0.2, g: 0.5333334, b: 0.8705882, a: 1}
+  - m_Name: 36c5f4
+    m_Color: {r: 0.2117647, g: 0.772549, b: 0.9568627, a: 1}
+  - m_Name: 6dead6
+    m_Color: {r: 0.427451, g: 0.9176471, b: 0.8392157, a: 1}
+  - m_Name: 5e5b8c
+    m_Color: {r: 0.3686275, g: 0.3568628, b: 0.5490196, a: 1}
+  - m_Name: 8c78a5
+    m_Color: {r: 0.5490196, g: 0.4705882, b: 0.6470588, a: 1}
+  - m_Name: b0a7b8
+    m_Color: {r: 0.6901961, g: 0.654902, b: 0.7215686, a: 1}
+  - m_Name: deceed
+    m_Color: {r: 0.8705882, g: 0.8078431, b: 0.9294118, a: 1}
+  - m_Name: 9a4d76
+    m_Color: {r: 0.6039216, g: 0.3019608, b: 0.4627451, a: 1}
+  - m_Name: c878af
+    m_Color: {r: 0.7843137, g: 0.4705882, b: 0.6862745, a: 1}
+  - m_Name: cc99ff
+    m_Color: {r: 0.8, g: 0.6, b: 1, a: 1}
+  - m_Name: fa6e79
+    m_Color: {r: 0.9803922, g: 0.4313726, b: 0.4745098, a: 1}
+  - m_Name: ffa2ac
+    m_Color: {r: 1, g: 0.6352941, b: 0.6745098, a: 1}
+  - m_Name: ffd1d5
+    m_Color: {r: 1, g: 0.8196079, b: 0.8352941, a: 1}
+  - m_Name: f6e8e0
+    m_Color: {r: 0.9647059, g: 0.9098039, b: 0.8784314, a: 1}
+  - m_Name: ffffff
+    m_Color: {r: 1, g: 1, b: 1, a: 1}
+  - m_Name: 
+    m_Color: {r: 0.3019608, g: 0.2078431, b: 0.2, a: 1}
+  - m_Name: 
+    m_Color: {r: 0.1792453, g: 0.13198648, b: 0.12936099, a: 1}
+  - m_Name: 
+    m_Color: {r: 0.122641504, g: 0.09327162, b: 0.090824135, a: 1}
+  - m_Name: 
+    m_Color: {r: 0.084905684, g: 0.07138863, b: 0.066082254, a: 1}
